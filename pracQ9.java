@@ -17,5 +17,7 @@ public class pracQ9 {
         System.out.println("enter a number B");
         int b= sc.nextInt();
         gcd(a, b);
+        sc.close();
     }
+    
 }

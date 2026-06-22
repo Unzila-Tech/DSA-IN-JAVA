@@ -14,6 +14,7 @@ public class pracQ10 {
           num1=num2;
           num2=next;
        }
+       sc.close();
        
     }
 }
