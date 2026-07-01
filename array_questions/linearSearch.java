@@ -1,3 +1,4 @@
+package array_questions;
 import java.util.Scanner;
 
 public class linearSearch {
