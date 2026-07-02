@@ -23,7 +23,7 @@ public class ascending {
             System.out.println("number are ascending!!");
         }else{
             System.out.println("number are not ascending!!");
-        
+        sc.close();
         }
     }
 }
