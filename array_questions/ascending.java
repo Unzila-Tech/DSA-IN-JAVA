@@ -25,6 +25,7 @@ public class ascending {
             System.out.println("number are not ascending!!");
         sc.close();
         }
+        sc.close();
     }
 }
 
