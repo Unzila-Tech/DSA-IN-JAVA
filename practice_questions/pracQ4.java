@@ -1,3 +1,4 @@
+package practice_questions;
 import java.util.Scanner;
 
 public class pracQ4 {

@@ -8,7 +8,7 @@ public class bubbleSort {
          
     }
     public static void main(String[] args) {
-        
+         
         int arr[] = { 3, 2, 4, 5 };
         int i,j;
        

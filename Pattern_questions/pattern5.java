@@ -1,4 +1,11 @@
+package Pattern_questions;
 public class pattern5 {
+//output
+//   * 
+//  ** 
+// *** 
+//****
+
     public static void main(String[] args) {
         int n=4;
 

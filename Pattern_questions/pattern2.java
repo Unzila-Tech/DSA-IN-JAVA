@@ -1,5 +1,13 @@
+package Pattern_questions;
 public class pattern2 {
-    public static void main(String[] args) {
+
+//output 
+//*****
+//*   *
+//*   *
+//*****
+
+    public static void main(String[] args) {                    
         int m=4;
         int n=5;
         for(int i=1;i<=m;i++){
@@ -14,3 +22,4 @@ public class pattern2 {
         }
     }
 }
+

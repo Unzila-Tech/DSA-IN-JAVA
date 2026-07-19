@@ -1,3 +1,10 @@
+package Pattern_questions;
+//output
+//*
+//**
+//***
+//****
+
 class pattern3{
   public static void main(String[] args) {
     //outer loop
