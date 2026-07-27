@@ -1,3 +1,4 @@
+package pattern_questions;
 public class numberPyramid {
     public static void main(String[] args) {
         int m=5;

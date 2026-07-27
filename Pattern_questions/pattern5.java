@@ -1,4 +1,4 @@
-package Pattern_questions;
+package pattern_questions;
 public class pattern5 {
 //output
 //   * 

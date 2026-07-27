@@ -1,4 +1,4 @@
-package Pattern_questions;
+package pattern_questions;
 //1
 //0 1
 //1 0 1
